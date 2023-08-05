@@ -1,0 +1,8 @@
+.txt-error{
+    color: red;
+}
+
+.is-invalid{
+    border: 2px solid red;
+    
+}
